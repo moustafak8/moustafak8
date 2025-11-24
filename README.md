@@ -5,9 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Passionate and innovative Computer Science Graduate with a strong foundation in software development and problem-solving. Experienced in full-stack development, with a proven ability to design scalable applications and optimize system performance. Adaptable and eager to explore new technologies, development stacks, and DevOps concepts, committed to continuous
-
-learning and growth
+Passionate and innovative Computer Science Graduate with a strong foundation in software development and problem-solving. Experienced in full-stack development, with a proven ability to design scalable applications and optimize system performance. Adaptable and eager to explore new technologies, development stacks, and DevOps concepts, committed to continuous learning and growth.
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [moustafaalkamel@gmail.com](mailto:moustafaalkamel@gmail.com)
